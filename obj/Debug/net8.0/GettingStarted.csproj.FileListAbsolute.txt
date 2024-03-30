@@ -1,0 +1,14 @@
+/Users/jayalee/GettingStarted/bin/Debug/net8.0/GettingStarted
+/Users/jayalee/GettingStarted/bin/Debug/net8.0/GettingStarted.deps.json
+/Users/jayalee/GettingStarted/bin/Debug/net8.0/GettingStarted.runtimeconfig.json
+/Users/jayalee/GettingStarted/bin/Debug/net8.0/GettingStarted.dll
+/Users/jayalee/GettingStarted/bin/Debug/net8.0/GettingStarted.pdb
+/Users/jayalee/GettingStarted/obj/Debug/net8.0/GettingStarted.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jayalee/GettingStarted/obj/Debug/net8.0/GettingStarted.AssemblyInfoInputs.cache
+/Users/jayalee/GettingStarted/obj/Debug/net8.0/GettingStarted.AssemblyInfo.cs
+/Users/jayalee/GettingStarted/obj/Debug/net8.0/GettingStarted.csproj.CoreCompileInputs.cache
+/Users/jayalee/GettingStarted/obj/Debug/net8.0/GettingStarted.dll
+/Users/jayalee/GettingStarted/obj/Debug/net8.0/refint/GettingStarted.dll
+/Users/jayalee/GettingStarted/obj/Debug/net8.0/GettingStarted.pdb
+/Users/jayalee/GettingStarted/obj/Debug/net8.0/GettingStarted.genruntimeconfig.cache
+/Users/jayalee/GettingStarted/obj/Debug/net8.0/ref/GettingStarted.dll
